@@ -44,7 +44,7 @@ The thing after the `cd` is an "argument" -- it's something you give to the `cd`
 
 | alias | description |
 | ----- | ----------- |
-| `~` (Mac) or `%HOME%` (Windows) | your home directory |
+| `~` (Mac) or `$HOME` (Windows) | your home directory |
 | `.` | the current directory |
 | `..` | the directory above this one |
 | `*` | all files and directories inside this directory |
